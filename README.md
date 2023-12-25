@@ -1,1 +1,1 @@
-# [online-store](https://veronchi.github.io/online-store/)
+# [online-store](https://sanek1n.github.io/online-store/)
